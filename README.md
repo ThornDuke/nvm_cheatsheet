@@ -2,6 +2,7 @@
 
 Command | Description
 ---|---
+`nvm --version` | Check if `nvm` is installed
 `nvm ls` | Lists the installed versions
 `nvm ls-remote` | Lists the versions available to install
 `nvm ls-remote --lts` | Only show LTS (long-term support) versions
