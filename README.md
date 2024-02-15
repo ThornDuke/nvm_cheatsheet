@@ -11,5 +11,6 @@ Command | Description
 `nvm use 12.3` | Uses a specific version of Node
 `nvm use` | Uses the version specified in the `.nvmrc` file
 `nvm alias default 18.12` | Sets a default Node version to be used in any new shell (this refers to the latest installed v18.12.x version of node)
+`node -v > .nvmrc` | Creates an nvm configuration file
 
 
